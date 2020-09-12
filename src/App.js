@@ -5,7 +5,7 @@ import './App.css';
 class App extends React.Component {
   constructor() {
     super()
-    this.state = { meaningful: 47 };
+    this.state = { meaningful: 47};
   };
 
   update = () => {
